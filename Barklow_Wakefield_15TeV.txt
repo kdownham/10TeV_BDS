@@ -1,0 +1,11 @@
+Variable, Value, Units
+Energy, 7.5e12, eV
+Intensity, 5e9, none
+BetaX, 0.15e-3, m
+BetaY, 0.15e-3, m
+em_X, 0.1e-6, m rad
+em_Y, 0.1e-6, m rad
+SigmaZ, 5e-6, m
+Delta, 0.01, none
+Phi, 0.0, rad
+Rep, 7.73e3, Hz
